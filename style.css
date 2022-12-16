@@ -236,7 +236,7 @@ color: rgba(255, 255, 255, 0.8);
     position: absolute;
     width: 400px;
     height: 48px;
-    left: calc(45% - 432px/2);
+    left: 0;
     top: 1240px;
 }
 .tr1{
