@@ -1,12 +1,12 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 body{
     position: absolute;
     width: 1440px;
     height: 900px;
-    box-sizing: border-box;
     margin: 8px;
 }
 .firstd1{
