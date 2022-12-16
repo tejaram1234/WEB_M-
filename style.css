@@ -253,14 +253,13 @@ color: rgba(255, 255, 255, 0.8);
     width: 1320px;
     height: 225px;
     top: 1340px;
-    left: calc(40% - 1320px/2);
+    left: calc(43% - 1320px/2);
 
 }
 .fty{
     display: inline;
     float: left;
     left: 0%;
-    right: 10px;
     top: 0%;
     bottom: 0%;
     padding-left: 10px;
@@ -292,7 +291,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .fr{
     background: url(fourimage4.png);
-    width:300px;
+    width:250px;
     height: 225px;
     background-size: cover;
     border-radius:20px;
