@@ -315,7 +315,7 @@ color: rgba(255, 255, 255, 0.8);
     position: absolute;
     width:100px;
     height: 18px;
-    top: 160px; 
+    top: 140px; 
 }
 .one{
     font-size: 30px;
@@ -331,40 +331,40 @@ color: rgba(255, 255, 255, 0.8);
     position: absolute;
     width:99px;
     height: 30px;
-    left:415px;
+    left:315px;
     top:24px;
 }
 .pu2{
     position: absolute;
     width:100px;
     height: 18px;
-    top: 160px; 
+    top: 140px; 
 }
 .fl1{
     position: absolute;
     width:99px;
     height: 30px;
-    left:760px;
+    left:660px;
     top:24px;
 }
 .fl2{
     position: absolute;
     width:100px;
     height: 18px;
-    top: 160px; 
+    top: 140px; 
 }
 .fr1{
     position: absolute;
     width:99px;
     height: 30px;
-    left:1105px;
+    left:1005px;
     top:24px;
 }
 .fr2{
     position: absolute;
     width:100px;
     height: 18px;
-    top: 160px; 
+    top: 140px; 
 }
 .firstdd1{
     position: relative;
