@@ -234,7 +234,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .ft3{
     position: absolute;
-    width: 500px;
+    width: 100%;
     height: 48px;
     left: calc(50% - 432px/2);
     top: 1240px;
