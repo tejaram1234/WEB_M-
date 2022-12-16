@@ -267,7 +267,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .fo{
     background: url(fourimage1.jpg);
-    width:300px;
+    width:250px;
     height: 225px;
     background-size: cover;
     border-radius:20px;
@@ -275,7 +275,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .pu{
     background: url(fourimage2.png);
-    width:300px;
+    width:250px;
     height: 225px;
     background-size:cover;
     background-repeat: no-repeat;
@@ -284,7 +284,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .fl{
     background: url(fourimage3.jpg);
-    width:300px;
+    width:250px;
     height: 225px;
     background-size: cover;
     border-radius:20px;
@@ -292,7 +292,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .fr{
     background: url(fourimage4.png);
-    width:300px;
+    width:250px;
     height: 225px;
     background-size: cover;
     border-radius:20px;
