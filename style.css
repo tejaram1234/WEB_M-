@@ -234,9 +234,9 @@ color: rgba(255, 255, 255, 0.8);
 }
 .ft3{
     position: absolute;
-    width: 400px;
+    width: 500px;
     height: 48px;
-    left: 0;
+    left: calc(50% - 432px/2);
     top: 1240px;
 }
 .tr1{
@@ -253,7 +253,7 @@ color: rgba(255, 255, 255, 0.8);
     width: 90%;
     height: 225px;
     top: 1340px;
-    left: 90px;
+    left: 70px;
 
 }
 .fty{
