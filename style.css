@@ -260,10 +260,10 @@ color: rgba(255, 255, 255, 0.8);
     display: inline;
     float: left;
     left: 0%;
-    right: 40px;
+    right: 20px;
     top: 0%;
     bottom: 0%;
-    padding-left: 40px;
+    padding-left: 20px;
 }
 .fo{
     background: url(fourimage1.jpg);
