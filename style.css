@@ -253,7 +253,7 @@ color: rgba(255, 255, 255, 0.8);
     width: 1320px;
     height: 225px;
     top: 1340px;
-    left: calc(50% - 1320px/2);
+    left: calc(45% - 1320px/2);
 
 }
 .fty{
@@ -267,7 +267,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .fo{
     background: url(fourimage1.jpg);
-    width:250px;
+    width:225px;
     height: 225px;
     background-size: cover;
     border-radius:20px;
@@ -275,7 +275,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .pu{
     background: url(fourimage2.png);
-    width:250px;
+    width:225px;
     height: 225px;
     background-size:cover;
     background-repeat: no-repeat;
@@ -284,7 +284,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .fl{
     background: url(fourimage3.jpg);
-    width:250px;
+    width:225px;
     height: 225px;
     background-size: cover;
     border-radius:20px;
@@ -292,19 +292,19 @@ color: rgba(255, 255, 255, 0.8);
 }
 .fr{
     background: url(fourimage4.png);
-    width:250px;
+    width:225px;
     height: 225px;
     background-size: cover;
     border-radius:20px;
     box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.15);
 }
-.empty{
+/* .empty{
     position: absolute;
     top:1600px;
     height: 225px;
     background-color: white;
     width:1440px;
-}
+} */
 .fo1{
     position: absolute;
     width:99px;
