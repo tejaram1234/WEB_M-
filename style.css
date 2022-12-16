@@ -259,7 +259,7 @@ color: rgba(255, 255, 255, 0.8);
 .fty{
     display: inline;
     float: left;
-    left: 0%;
+    left: 1%;
     top: 0%;
     bottom: 0%;
     padding-left: 10px;
