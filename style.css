@@ -252,9 +252,6 @@ color: rgba(255, 255, 255, 0.8);
     height: 230px;
     position: absolute;
     top: 1280px;
-    display: flex;
-    justify-content: space-between;
-    gap: 20px;
 }
 .fourtypes li{
     display: inline-flex;
@@ -262,6 +259,23 @@ color: rgba(255, 255, 255, 0.8);
 .foli,.pucc,.flr,.fru{
     width: 280px;
     height: 200;
+    border-radius: 4px;
+}
+.foli{
+    background: url(fourimage1.jpg);
+    background-size: cover;
+}
+.pucc{
+    background: url(fourimage2.png);
+    background-size: cover;
+}
+.flr{
+    background: url(fourimage3.jpg);
+    background-size: cover;
+}
+.fru{
+    background: url(fourimage4.png);
+    background-size: cover;
 }
 .firstdd1{
     position: relative;
