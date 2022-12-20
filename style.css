@@ -341,32 +341,6 @@ color: rgba(255, 255, 255, 0.8);
     height: 18px;
     top: 120px; 
 }
-.fl1{
-    position: absolute;
-    width:99px;
-    height: 30px;
-    left:670px;
-    top:24px;
-}
-.fl2{
-    position: absolute;
-    width:100px;
-    height: 18px;
-    top: 120px; 
-}
-.fr1{
-    position: absolute;
-    width:99px;
-    height: 30px;
-    left:970px;
-    top:24px;
-}
-.fr2{
-    position: absolute;
-    width:100px;
-    height: 18px;
-    top: 120px; 
-}
 .firstdd1{
     position: relative;
     width: 100%;
