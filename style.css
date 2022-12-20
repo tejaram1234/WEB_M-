@@ -253,7 +253,8 @@ color: rgba(255, 255, 255, 0.8);
     width: 1320px;
     height: 225px;
     top: 1340px;
-    left: calc(50% - 1320px/2);
+    align-items: center;
+    padding: 20px;
 
 }
 .fty{
