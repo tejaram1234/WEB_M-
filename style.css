@@ -251,15 +251,17 @@ color: rgba(255, 255, 255, 0.8);
     width: 1200px;
     height: 230px;
     position: absolute;
-    top: 1260px;
+    top: 1280px;
     display: flex;
     justify-content: space-between;
     gap: 20px;
 }
 .fourtypes li{
     display: inline-flex;
-    width:280px;
-    height: 200px;
+}
+.foli,.pucc,.flr,.fru{
+    width: 280px;
+    height: 200;
 }
 .firstdd1{
     position: relative;
