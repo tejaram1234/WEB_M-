@@ -252,6 +252,8 @@ color: rgba(255, 255, 255, 0.8);
     position: absolute;
     top: 1260px;
     display: flex;
+    justify-content: space-between;
+    gap: 20px;
 }
 .fourtypes li{
     display: inline-flex;
