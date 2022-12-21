@@ -462,14 +462,14 @@ text-shadow: 0px 10px 20px rgba(0, 0, 0, 0.25);
 }
 .sp1{
     position: absolute;
-    width: 700px;
+    width: 600px;
     height: 240px;
     top: 300px;
-    left: 220px;
+    left: 200px;
 }
 .sps1{
     font-family: SF Pro Display;
-    font-size: 100px;
+    font-size: 80px;
     font-weight: 700px;
     background: linear-gradient(180deg, rgba(240, 255, 238, 0.8) 0%, #FFFFFF 100%);
 -webkit-background-clip: text;
@@ -478,7 +478,7 @@ background-clip: text;
 }
 .sp2{
     position: absolute;
-    width: 170px;
+    width: 160px;
     height: 20px;
     top: 280px;
 }
@@ -486,7 +486,7 @@ background-clip: text;
     font-family: 'SF Pro Text';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     text-transform: uppercase;
     color: #D2FFCB;
 }
