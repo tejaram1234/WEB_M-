@@ -385,7 +385,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .mask{
     position: absolute;
-    width: 1050px;
+    width: 950px;
     height: 600px;
     left: 300px;
     top: 250px;
@@ -395,7 +395,7 @@ color: rgba(255, 255, 255, 0.8);
 }
 .mask1{
     position: absolute;
-    width: 1050px;
+    width: 950px;
     height: 600px;
     left: 300px;
     top: 250px;
